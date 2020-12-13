@@ -8,5 +8,6 @@ The data source for this project is from <a href='https://www.kaggle.com/andrewm
 1. Binary - Normal (N) to Other Diseases
 2. Multi-categories
 3. Categories exploration
-  * Normal (N) to Diabetes (D)
+   * Normal (N) to Diabetes (D) to Other Diseases
+   * Cataract (C) to Other Diseases
   
