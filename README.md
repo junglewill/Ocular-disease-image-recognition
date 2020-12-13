@@ -18,4 +18,6 @@ The data source for this project is from <a href='https://www.kaggle.com/andrewm
 2. Merge images and Separated images: predict the diagnose based on both eyes of a patient vs. predict the diagnose based on each single eye
 3. RGB and Grayscale: using the original colored images vs. changing into grayscale images
 
+#### Approach:
+
   
