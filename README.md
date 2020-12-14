@@ -12,12 +12,14 @@ The data source for this project is from <a href='https://www.kaggle.com/andrewm
    * Normal (N) to Diabetes (D) to Other Diseases
    * Cataract (C) to Other Diseases
    * All the diseases wiothout Normal (N)
-   
-#### Model:
-1. Construction: 2 Convolution Layers & Max Pooling using Relu, Sigmoid, and Softmax activation with Gradient Descent optimizer.
-2. Merge images and Separated images: predict the diagnose based on both eyes of a patient vs. predict the diagnose based on each single eye
-3. RGB and Grayscale: using the original colored images vs. changing into grayscale images
 
 #### Approach:
+1. Merge images and Separated images: predict the diagnose based on both eyes of a patient vs. predict the diagnose based on each single eye
+2. RGB and Grayscale: using the original colored images vs. changing into grayscale images
+
+#### Model:
+1. Model construction: 2 Convolution Layers & Max Pooling using Relu, Sigmoid, and Softmax activation with Gradient Descent optimizer.
+2. VGG19
+
 
   
