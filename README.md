@@ -21,8 +21,8 @@ The data source for this project is from <a href='https://www.kaggle.com/andrewm
 1. Built CNN model: 2 Convolution Layers & Max Pooling using Relu, Sigmoid, and Softmax activation with Gradient Descent optimizer.
 2. VGG19
 
-## Contribution
-team member: 
+## Contributors
+Team member: 
 
 
   
