@@ -23,6 +23,7 @@ The data source for this project is from <a href='https://www.kaggle.com/andrewm
 
 ## Contributors
 It was a group project created in the Data Analytics course at Columbia University.
+
 Team member: 
 
 
